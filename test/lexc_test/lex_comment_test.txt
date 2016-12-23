@@ -1,0 +1,5 @@
+
+
+/* this is a comment character */
+"this is not a comment"
+this is neither a comment nor a string
